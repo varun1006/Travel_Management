@@ -1,8 +1,8 @@
-**Log on to codeastro.com for more projects!***
+
 
 **Database Name: obrsphp**
 
-**Developed by Chameera Mayura**
+**Developed by Varun A**
 
 **Recommended PHP Version 5.6, 7.4**
 
